@@ -31,6 +31,7 @@ export default function App() {
     <div className="min-h-screen bg-gray-950 flex items-center justify-center px-5 py-16 text-white">
       <div className="w-full max-w-xl bg-gray-900/60 border border-white/10 rounded-2xl flex flex-col gap-12 items-center justify-center p-8">
         <h1 className="text-4xl font-bold text-yellow-400 tracking-widest"> XV FORTUNE</h1>
+        <h2>Unlock Your Fortune With 15</h2>
         <div className="flex gap-4 ">
           {nums.map((num, key) => {
           return(
