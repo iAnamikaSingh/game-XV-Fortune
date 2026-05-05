@@ -1,4 +1,5 @@
 # XV Fortune - Sum to 15 Game
+![Game Screenshot](./screenshots/game-preview.png)
 
 A fun and interactive number puzzle game built with **React**, **Vite**, **TypeScript**, **Taolwind CSS*.
 ## 🎮 Gameplay
